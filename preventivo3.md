@@ -14,7 +14,7 @@
 - **Chi siamo**: Breve presentazione del team.
 - **Thank You Page**: Messaggio di conferma dopo invio modulo.
 
-📌 **Caratteristiche:**
+ **Caratteristiche:**
 - **Struttura leggera e performante** grazie a Symfony.
 - **Semplice backend** per la gestione dei contenuti via YAML o file di configurazione.
 - **Database per lead generation** (newsletter).
