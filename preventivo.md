@@ -1,13 +1,12 @@
 # Preventivo - Sito Completo Vinissimo
 
-## Roadmap
 
-### **Fase 1: Pianificazione e Strategia (1 settimana)**
+### **Fase 1: Pianificazione e Strategia **
 - Analisi dei contenuti e definizione della struttura (sitemap).
 - Scelta della piattaforma (WordPress, Webflow, sviluppo custom).
 - Creazione di wireframe per il design.
 
-### **Fase 2: Design e Sviluppo (3-4 settimane)**
+### **Fase 2: Design e Sviluppo **
 - Creazione di UI/UX design moderno e intuitivo.
 - Implementazione delle seguenti pagine:
   1. **Home Page**
@@ -17,11 +16,11 @@
   5. **Thank you page**
 - Integrazione con Google Analytics e ottimizzazione SEO di base.
 
-### **Fase 3: Testing e Ottimizzazione (1 settimana)**
+### **Fase 3: Testing e Ottimizzazione **
 - Test di usabilità e compatibilità su vari dispositivi.
 - Debugging e ottimizzazione delle performance.
 
-### **Fase 4: Lancio e Monitoraggio (1 settimana)**
+### **Fase 4: Lancio e Monitoraggio **
 - Pubblicazione online con messaggio di lancio.
 - Monitoraggio iniziale e correzioni.
 
@@ -37,10 +36,5 @@
 | **Messa Online e Monitoraggio** | Lancio del sito e configurazione tracking    | 300          |
 | **Totale**                | **Costo complessivo stimato**                     | **4.500 €**  |
 
-### **Servizi opzionali**
-- Gestione del sito e aggiornamenti: **200 €/mese**.
-- SEO avanzata e gestione blog: **500 €/mese**.
-- Campagne marketing digitali: **budget variabile**.
 
-📌 **Tempistiche previste:** 5-7 settimane.
 
