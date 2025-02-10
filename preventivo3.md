@@ -19,7 +19,7 @@
 - **Semplice backend** per la gestione dei contenuti via YAML o file di configurazione.
 - **Database per lead generation** (newsletter).
 
-### **Fase 3: Test e Deploy (1 settimana)**
+### **Fase 3: Test e Deploy**
 - Debugging e test su dispositivi diversi.
 - Deploy su server di produzione con configurazione base.
 - Controllo delle performance e sicurezza.
